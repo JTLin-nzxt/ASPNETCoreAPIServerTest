@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JanLVzVelwjST0CvUnOJXp/7txTxyFSRGmZ9Lyx8fbdK1S1jKxguIEPMn6GuqnGPs2yj1VJfF2byie3aYqkmsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lp123\\source\\repos\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lp123\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
