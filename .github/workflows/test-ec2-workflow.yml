@@ -22,6 +22,7 @@ jobs:
           ssh -o StrictHostKeyChecking=no -i private_key ${USER_NAME}@${HOSTNAME} '
 
               # Now we have got the access of EC2 and we will start the deploy .
+              sudo rm ASPNETCoreAPIServerTest -r
               git clone https://github.com/JTLin-nzxt/ASPNETCoreAPIServerTest.git
               cd ASPNETCoreAPIServerTest
               sudo docker stop testapi
