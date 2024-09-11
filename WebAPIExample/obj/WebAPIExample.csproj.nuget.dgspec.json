@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lp123\\source\\repos\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj": {}
+    "C:\\Users\\lp123\\Documents\\GitHub\\ASPNETCoreAPIServerTest\\WebAPIExample\\WebAPIExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lp123\\source\\repos\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj": {
+    "C:\\Users\\lp123\\Documents\\GitHub\\ASPNETCoreAPIServerTest\\WebAPIExample\\WebAPIExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lp123\\source\\repos\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
+        "projectUniqueName": "C:\\Users\\lp123\\Documents\\GitHub\\ASPNETCoreAPIServerTest\\WebAPIExample\\WebAPIExample.csproj",
         "projectName": "WebAPIExample",
-        "projectPath": "C:\\Users\\lp123\\source\\repos\\WebAPIExample\\WebAPIExample\\WebAPIExample.csproj",
+        "projectPath": "C:\\Users\\lp123\\Documents\\GitHub\\ASPNETCoreAPIServerTest\\WebAPIExample\\WebAPIExample.csproj",
         "packagesPath": "C:\\Users\\lp123\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lp123\\source\\repos\\WebAPIExample\\WebAPIExample\\obj\\",
+        "outputPath": "C:\\Users\\lp123\\Documents\\GitHub\\ASPNETCoreAPIServerTest\\WebAPIExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
